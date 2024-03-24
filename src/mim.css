@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+#corpo {
+    font-family: 'Bree Serif', serif;
+    background-color: #caecdd;
+}
+
+#hrr {
+    border-color: #f7f5f3;
+    border-style: groove;
+    border-width: 5px;
+    width: 100%;
+}
+
+#nome, #dados-pessoais, #areadeatuacao, #formacao, #experiencia {
+    color: #da0505;
+}

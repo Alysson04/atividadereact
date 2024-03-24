@@ -1,0 +1,120 @@
+#container {
+    background-image: url("./src/assets/imagem2.jpg");
+    position: relative;
+    height: 100vh;
+    width: 52vw;
+   background-repeat: no-repeat;
+    opacity: 1;
+    margin-left: 0px;
+ 
+}
+#container2{
+    background-image: url("./src/assets/imagem1.jpg");
+    position:relative;
+    height: 48.2vh;
+    width: 48vw;
+   background-repeat: no-repeat;
+    margin-top: -953px;
+    margin-left: 1000px;
+
+}
+#container4{
+    background-color: rgb(255, 255, 255);
+    height: 32vh;
+    width: 100vw;
+    margin-top:-300px;
+    
+}
+
+#container3{
+    background-color: #A31C44;
+    height: 25vw;
+    width: 100vw;
+    
+}
+
+
+    
+
+
+#sobremim{
+    color:white;
+    margin-left: 60%;
+    width: 40vw;
+    height: 0vh;
+    margin-top: -60px;
+    font-size: 40px;
+
+}
+#ods8{
+    color:white;
+    margin-left: 60px;
+    width: 50vw;
+    height: 0vh;
+    margin-top: -430px;
+    font-size: 40px;
+    
+ 
+}
+#barraNav{
+    background-color:#A31C44;
+    width: 100.2vw;
+    height: 10vh;
+    justify-content: justify;
+}
+
+#textoods {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: -0%;
+    left: 63vh;
+    color: rgb(252, 251, 251)
+    
+    
+    
+}
+
+a {
+    transition: all 0.5s;
+    position: absolute;
+}
+
+#saibaods {
+    
+        width: 200px;
+        height: 200px; 
+        border-radius: 50%;
+   
+    
+    top: 85.4%;
+    right: 70.5%;
+}
+
+#saibamim {
+    top: 85.4%;
+    right: 15%;
+   
+        width: 200px; 
+        height: 200px; 
+        border-radius: 50%; 
+   
+    
+}
+
+a:hover {
+    transform: scale(1.5);
+}
+
+img {
+    width: 286px;
+  
+        width: 200px; 
+        height: 200px;
+        border-radius: 60%; 
+   
+
+
+}
+
+
