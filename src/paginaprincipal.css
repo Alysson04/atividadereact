@@ -1,5 +1,6 @@
+
 #container {
-    background-image: url("./src/assets/imagem2.jpg");
+    background-image: url("../src/assets/imagem2.jpg");
     position: relative;
     height: 100vh;
     width: 52vw;
@@ -9,7 +10,7 @@
  
 }
 #container2{
-    background-image: url("./src/assets/imagem1.jpg");
+    background-image: url("../src/assets/imagem1.jpg");
     position:relative;
     height: 48.2vh;
     width: 48vw;
