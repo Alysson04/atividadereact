@@ -17,7 +17,7 @@ function Mim (){
             <table>
               <tr>
                 <td>
-                  <img src="./src/assets/foto.jpg" alt="Foto Alysson" width="200px" />
+                  <img src="../src/assets/foto.jpg" alt="Foto Alysson" width="200px" />
                 </td>
                 <td>
                   <h1>Alysson Rafael</h1>
