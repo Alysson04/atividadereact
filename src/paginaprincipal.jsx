@@ -1,4 +1,6 @@
 import './paginaprincipal.css'
+import saibaods from '../src/assets/ods.png'
+import saibamim from '..//src/assets/foto.jpg'
 
 
 function Paginaprincipal (){
@@ -14,11 +16,11 @@ function Paginaprincipal (){
         <h1 id="textoods">Trabalho Decente e Crescimento Econômico</h1>
 
         <a href="/ods" id="saibaods">
-            <img src="../src/assets/ods.png" />
+            <img src={saibaods} />
         </a>
 
         <a href="/mim" id="saibamim">
-            <img src="../src/assets/foto.jpg" />
+            <img src={saibamim} />
     
         </a>
         <div id="container2">
