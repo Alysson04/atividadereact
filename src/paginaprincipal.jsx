@@ -1,6 +1,6 @@
 import './paginaprincipal.css'
-import saibaods from '../src/assets/ods.png'
-import saibamim from '..//src/assets/foto.jpg'
+import saibaods from './src/assets/ods.png'
+import saibamim from './src/assets/foto.jpg'
 
 
 function Paginaprincipal (){
