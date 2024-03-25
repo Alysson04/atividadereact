@@ -1,5 +1,6 @@
 import './paginaprincipal.css'
 
+
 function Paginaprincipal (){
     return (
         <>
@@ -13,11 +14,11 @@ function Paginaprincipal (){
         <h1 id="textoods">Trabalho Decente e Crescimento Econômico</h1>
 
         <a href="/ods" id="saibaods">
-            <img src="./src/assets/ods.png" />
+            <img src="../src/assets/ods.png" />
         </a>
 
         <a href="/mim" id="saibamim">
-            <img src="./src/assets/foto.jpg" />
+            <img src="../src/assets/foto.jpg" />
     
         </a>
         <div id="container2">
