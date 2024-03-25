@@ -1,4 +1,5 @@
 import './mim.css'
+import fotominha from '../src/assets/foto.jpg'
 
 function Mim (){
     return (
@@ -17,7 +18,7 @@ function Mim (){
             <table>
               <tr>
                 <td>
-                  <img src="../src/assets/foto.jpg" alt="Foto Alysson" width="200px" />
+                  <img src={fotominha} alt="Foto Alysson" width="200px" />
                 </td>
                 <td>
                   <h1>Alysson Rafael</h1>
